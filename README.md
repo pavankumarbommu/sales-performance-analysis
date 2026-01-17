@@ -29,6 +29,21 @@ The objective of this project is to convert raw sales data into meaningful visua
 - Technology and Furniture categories contribute the highest revenue  
 - A limited number of cities generate the majority of total sales  
 - Profit margins remain stable across different time periods  
+---
+
+
+## Dashboard Preview
+![Dashboard Overview](images/dashboard_overview.png)
+
+---
+
+## Key Insights
+![Sales Insights](images/dashboard_kpis.png)
+
+---
+
+## trend analysis
+![trend analysis](images/dashboard_trends.png)
 
 ---
 
