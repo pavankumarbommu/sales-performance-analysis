@@ -31,12 +31,15 @@ The objective of this project is to convert raw sales data into meaningful visua
 - Profit margins remain stable across different time periods  
 
 ---
+
+## Project Structure
 sales-performance-analysis/
 │
 ├── Walmart_Sales_Dashboard.pbix
 ├── README.md
 └── images/
 └── dashboard_overview.png
+
 
 ---
 
@@ -58,6 +61,3 @@ Skills: Power BI, DAX, Data Visualization, Excel
 
 ## Usage
 Open the `.pbix` file using Power BI Desktop to explore the dashboard and interact with the visualizations.
-
-## Project Structure
-
